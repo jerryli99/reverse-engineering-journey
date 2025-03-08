@@ -2,6 +2,8 @@ OK, where can we start then? Hummm, well, I only know some C and C++ and some Py
 
 (Note: as time progresses, these stages might change or not...)
 
+So far, I will use Ghidra to do the reverse engineering since it is free.
+
 ### Stage 1:
 
 Let's start with something simple, like data types (including type casting stuff), if/else, and loops for programs in a single file or/and with some statically linked libs.
