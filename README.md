@@ -1,4 +1,4 @@
-OK, where can we start then? Hummm, well, I only know some C and C++ and some Python and very little assembly. 
+OK, where can we start then? Hummm, well, by the time I started this repository, I only know some C and C++ and some Python and very little assembly. (3/8/2025 12:45 am, well, making decisions at night is usually a crazy idea, but whatever.)
 
 (Note: as time progresses, these stages might change or not...)
 
@@ -7,6 +7,8 @@ So far, I will use Ghidra to do the reverse engineering since it is free.
 ### Stage 1:
 
 Let's start with something simple, like data types (including type casting stuff), if/else, and loops for programs in a single file or/and with some statically linked libs.
+
+Then functions, including recursion. 
 
 Then do pointers, structs, union, enum for programs in a single file.
 
@@ -30,7 +32,7 @@ Well, so far, just be familiar of the assembly syntax.
 
 ### Stage 3:
 
-Start writing programs that use data structures (linked lists, lists, queue, stack, trees, graphs) and threads. See the assembly, and then try to make sense of it. 
+Start writing programs that use data structures (linked lists, lists, queue, stack, trees (recursion involved..), graphs) and threads. See the assembly, and then try to make sense of it. 
 
 Start mixing data structures and threads. See how they work.
 
