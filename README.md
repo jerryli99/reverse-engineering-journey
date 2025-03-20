@@ -1,3 +1,5 @@
+# Happy Dog Reverse Engineering
+
 OK, where can we start then? Hummm, well, by the time I started this repository, I only know some C and C++ and some Python and very little assembly. (3/8/2025 12:45 am, well, making decisions at night is usually a crazy idea, but whatever.)
 
 (Note: as time progresses, these stages might change or not...)
