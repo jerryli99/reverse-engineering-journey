@@ -74,4 +74,6 @@ class Workable {
         human.eat();
     
         return 0;
-    }
+    }// Why ISP?
+
+//Prevents classes from implementing irrelevant methods.

@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "*.cpp": "cpp",
+        "my_staticlib1.h": "c"
+    }
+}
